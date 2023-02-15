@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    save_format: "png" # png, jpg or tiff
+    save_dir: ""
